@@ -1,8 +1,7 @@
 # Hi welcome to happysunny-canteen menu
 ## This is a assignment of a Coursera Course-Html, CSS, Javascript
 
-[Requirement](requirement.md)  
-
+[Requirement](requirement.md) 
 [Solutions](canteen menu.html)
 The requirement of the assignment is listed as followed:
 
