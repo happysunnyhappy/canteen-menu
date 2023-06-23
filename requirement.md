@@ -1,4 +1,4 @@
-## This is details of requirement of the assignment 2:
+## Details of requirement of the assignment 2:
 
 The requirement of the assignment is listed as followed:
 
