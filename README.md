@@ -6,5 +6,3 @@
 [Requirement](requirement.md)  
 
 [Solutions](canteen-menu.html)  
-
-[Solutions](canteen menu.html)
