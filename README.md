@@ -1,5 +1,8 @@
 # Hi welcome to happysunny-canteen menu
-## This is a assignment of a Coursera Course-Html, CSS, Javascript.
+## This is a assignment of a Coursera Course-Html, CSS, Javascript
+
+![requirement](google.com)
+![Solutions]()
 The requirement of the assignment is listed as followed:
 
 1.(If you haven't already) Create a GitHub.com account and a repository that you will use for this class.
