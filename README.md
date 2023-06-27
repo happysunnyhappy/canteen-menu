@@ -5,4 +5,4 @@
 
 [Requirement](requirement.md)  
 
-[Solutions](canteen-menu.html)  
+[Solutions](index.html)  
